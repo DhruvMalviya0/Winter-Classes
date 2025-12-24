@@ -11,3 +11,7 @@
 ### Day 3:
 - Generate Parentheses
 - Roman to integer
+
+### Day 4:
+- Sort the Matrix Diagonally
+- Next Permutation
