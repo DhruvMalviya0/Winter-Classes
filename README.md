@@ -15,3 +15,7 @@
 ### Day 4:
 - Sort the Matrix Diagonally
 - Next Permutation
+
+### Day 5:
+- Find Peak Element
+- Asteroid Collision
